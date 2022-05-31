@@ -1,3 +1,6 @@
 # super-team-project
 
-I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+AS A food loving person
+I WANT to quickly check all restaurants near me
+SO THAT I can always find enough food quickly to quench my hunger
+
